@@ -7,6 +7,8 @@ myName = "Ti";
 
 // constant
 const PI_NUMBER = 3.14;
+const GRAVITY = 9.8;
+
 // [khong the gan lai dc] PI_NUMBER = 11;
 
 //1.7976931348623157e+308 ->1.7976931348623157 * 10^38
